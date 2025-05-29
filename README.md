@@ -52,8 +52,7 @@ Marketing team to prepare launch campaign materials.
 
 
 # Sample JSON Output
-
-
+'''json
 {
   "summary": "The team confirmed the product launch on June 10, assigned onboarding preparation and logistics follow-up, and discussed user feedback on mobile design.",
   "decisions": [
@@ -72,6 +71,8 @@ Marketing team to prepare launch campaign materials.
     }
   ]
 }
+'''
+
 
 
 Folder Structure
