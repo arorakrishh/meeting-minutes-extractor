@@ -23,7 +23,7 @@ However, these APIs require **paid keys**, which were not available during this 
 
 So, I created a **mock version** by manually writing logic to extract data from a specific meeting format with bullet points using the help of ai.
 
----
+
 
 # Sample Input Format
 1: 
@@ -53,7 +53,7 @@ Marketing team to prepare launch campaign materials.
 
 # Sample JSON Output
 
-```json
+
 {
   "summary": "The team confirmed the product launch on June 10, assigned onboarding preparation and logistics follow-up, and discussed user feedback on mobile design.",
   "decisions": [
